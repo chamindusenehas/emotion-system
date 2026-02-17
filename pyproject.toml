@@ -4,4 +4,14 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = ["torch","numpy"]
+dependencies = [
+    "torch",
+    "numpy", 
+    "torchvision", 
+    "transformers", 
+    "opencv-python", 
+    "pillow", 
+    "facenet-pytorch", 
+    "sounddevice", 
+    "librosa"
+    ]
