@@ -13,22 +13,6 @@ A real-time multimodal emotion detection system that recognizes human emotions b
 
 ---
 
-## 📁 Project Structure
-emotion-system/
-├── models/
-│ ├── visual_model.py
-│ ├── audio_model.py
-│ └── fusion_model.py
-├── streaming/
-│ ├── camera.py
-│ └── audio_stream.py
-├── utils/
-│ └── entrophy.py
-├── main.py
-├── requirements.txt
-└── README.md
-
----
 
 ## 📦 Installation
 
